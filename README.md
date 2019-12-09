@@ -1,6 +1,9 @@
 # PortScanner
 Port Scanner write on python language
 
+# Video
+<a href="https://asciinema.org/a/286495" target="_blank"><img src="https://asciinema.org/a/286495.svg" /></a>
+
 ## How To use?
     1. git clone https://github.com/kennedy69/PortScanner.git
     2. cd PortScanner
