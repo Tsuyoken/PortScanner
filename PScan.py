@@ -73,7 +73,7 @@ try:
     scan = Core()
     scan.GetData(input("Input Target IP or URL\n"))
     print(bcolors.WARNING,"Range:",Core.mode,"\n Target:",Core.ipurl,"\n Scanning speed:",Core.network_speed,bcolors.ENDC)
-    print(bcolors.BOLD,"Please wait...",bcolors.ENDC)
+    print(bcolors.BOLD,"Just a few moment...",bcolors.ENDC)
     for count in range(0,Core.mode):
         #print (Core.mode)
         time.sleep(Core.network_speed)
